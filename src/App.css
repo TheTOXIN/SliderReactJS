@@ -94,12 +94,12 @@
   background-position: center center;
   background-color: transparent;
 
-/*  -moz-transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
   -o-transition: all 1s ease-out;
-  -webkit-transition: all 1s ease-out;*/
+  -webkit-transition: all 1s ease-out;
 }
-/*.slider .each-slide:hover{
+.slider .each-slide:hover{
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
-}*/
+}
